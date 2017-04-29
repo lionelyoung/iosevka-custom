@@ -12,8 +12,8 @@ Usage
   mkdir $HOME/Projects
   git clone https://github.com/be5invis/Iosevka
   ```
-2. Run ./iosevka_custom.sh
-3. Browse to $HOME/Projects/dist/
+2. Run `./iosevka_custom.sh`
+3. Browse to `$HOME/Projects/dist/`
   - Your fonts should be in iosevka-custom and will show up as "Iosevka Term" after installation
 
 
