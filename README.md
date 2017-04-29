@@ -35,6 +35,6 @@ The following defaults don't need to be specified:
 - fira @ (default)
 - curly braces (default)
 - slashed zero (default)
-- high tilde (default)
+- lower tilde (default)
 
 ![Iosevka Custom](https://i.imgur.com/MH1gR0J.png)
