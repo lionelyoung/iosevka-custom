@@ -24,6 +24,9 @@ cd $WDIR || exit 1
 brew tap caryll/homebrew-tap
 brew install caryll/tap/otfcc-mac64 ttfautohint
 
+# Install Iosevka requirements
+npm install
+
 # Create my custom configuration
 # ==============================
 # - low asterisk
