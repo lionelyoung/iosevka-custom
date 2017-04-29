@@ -37,4 +37,4 @@ The following defaults don't need to be specified:
 - slashed zero (default)
 - high tilde (default)
 
-![Iosevka Custom](http://i.imgur.com/g2G1O2g.png)
+![Iosevka Custom](https://i.imgur.com/MH1gR0J.png)
