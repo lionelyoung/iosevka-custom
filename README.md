@@ -36,3 +36,5 @@ The following defaults don't need to be specified:
 - curly braces (default)
 - slashed zero (default)
 - high tilde (default)
+
+![Iosevka Custom](http://i.imgur.com/g2G1O2g.png)
